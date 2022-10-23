@@ -1,2 +1,4 @@
-# Project exclude paths
-/cmake-build-debug-system_native_toolchain/
+*build*
+.idea
+install
+/.project
